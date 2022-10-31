@@ -16,6 +16,7 @@ def main():
                     dealLinks.append(rule['url'])
             output.append({'title': deal['title'], 'enabled': deal['is_published'], 'urls': dealLinks})
         
+        output.sort(key=lambda deal: (deal['title']))
         with open("data/data.json", "w") as outfile:
             outfile.write(json.dumps(output, indent=4))
     else:
