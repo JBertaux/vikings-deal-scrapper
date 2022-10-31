@@ -7,6 +7,7 @@
 // @match        http*://*/*
 // @icon         https://mobilevikings.be/static/img/icons/favicons/favicon.ico
 // @updateURL    https://raw.githubusercontent.com/JBertaux/vikings-deal-scrapper/main/deals.user.js
+// @downloadURL  https://raw.githubusercontent.com/JBertaux/vikings-deal-scrapper/main/deals.user.js
 // ==/UserScript==
 
 (function () {
