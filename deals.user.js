@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Mobile Vikings Deals
 // @namespace    https://jeromebertaux.be
-// @version      0.1
+// @version      0.2
 // @description  Diplay deals in partner website
 // @author       Jérôme Bertaux
 // @match        http*://*/*
-// @icon         https://mobilevikings.be/static/img/icons/favicons/favicon.ico
+// @icon         https://mobilevikings.be/static/img/icons/favicons/safari-pinned-tab.svg
 // @updateURL    https://raw.githubusercontent.com/JBertaux/vikings-deal-scrapper/main/deals.user.js
 // @downloadURL  https://raw.githubusercontent.com/JBertaux/vikings-deal-scrapper/main/deals.user.js
 // ==/UserScript==
