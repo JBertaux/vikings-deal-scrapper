@@ -1,0 +1,2052 @@
+[
+    {
+        "title": "Booking.com",
+        "enabled": true,
+        "urls": [
+            "booking.com"
+        ]
+    },
+    {
+        "title": "Rentalcars.com",
+        "enabled": true,
+        "urls": [
+            "rentalcars.com"
+        ]
+    },
+    {
+        "title": "Zooplus",
+        "enabled": true,
+        "urls": [
+            "zooplus.nl"
+        ]
+    },
+    {
+        "title": "C&A",
+        "enabled": true,
+        "urls": [
+            "c-and-a.com"
+        ]
+    },
+    {
+        "title": "Belvilla",
+        "enabled": true,
+        "urls": [
+            "nl.belvilla.be",
+            "fr.belvilla.be",
+            "belvilla.be"
+        ]
+    },
+    {
+        "title": "Fitwinkel",
+        "enabled": true,
+        "urls": [
+            "fitwinkel.be"
+        ]
+    },
+    {
+        "title": "LEGO",
+        "enabled": true,
+        "urls": [
+            "lego.com"
+        ]
+    },
+    {
+        "title": "Body & Fit",
+        "enabled": true,
+        "urls": [
+            "bodyandfit.com"
+        ]
+    },
+    {
+        "title": "Tommy Hilfiger",
+        "enabled": true,
+        "urls": [
+            "tommy.com"
+        ]
+    },
+    {
+        "title": "Collect&Go Deals",
+        "enabled": true,
+        "urls": [
+            "deals.collectandgo.be"
+        ]
+    },
+    {
+        "title": "Hello bank!",
+        "enabled": true,
+        "urls": [
+            "www.hellobank.be"
+        ]
+    },
+    {
+        "title": "Bol.com",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "Coolblue",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "Takeaway.com",
+        "enabled": true,
+        "urls": [
+            "takeaway.com"
+        ]
+    },
+    {
+        "title": "TUI",
+        "enabled": true,
+        "urls": [
+            "tui.be"
+        ]
+    },
+    {
+        "title": "Farmaline",
+        "enabled": true,
+        "urls": [
+            "farmaline.be"
+        ]
+    },
+    {
+        "title": "JBC",
+        "enabled": true,
+        "urls": [
+            "jbc.be"
+        ]
+    },
+    {
+        "title": "Landal GreenParks",
+        "enabled": true,
+        "urls": [
+            "landal.be"
+        ]
+    },
+    {
+        "title": "Vandenborre.be",
+        "enabled": true,
+        "urls": [
+            "vandenborre.be"
+        ]
+    },
+    {
+        "title": "Lamp & licht",
+        "enabled": true,
+        "urls": [
+            "lampenlicht.be",
+            "lampeetlumiere.be"
+        ]
+    },
+    {
+        "title": "PharmaMarket",
+        "enabled": true,
+        "urls": [
+            "pharmamarket.be"
+        ]
+    },
+    {
+        "title": "Mijn Energie",
+        "enabled": true,
+        "urls": [
+            "mijnenergie.be",
+            "monenergie.be"
+        ]
+    },
+    {
+        "title": "De Bijenkorf",
+        "enabled": true,
+        "urls": [
+            "debijenkorf.be"
+        ]
+    },
+    {
+        "title": "24Pharma",
+        "enabled": true,
+        "urls": [
+            "24pharma.be"
+        ]
+    },
+    {
+        "title": "AliExpress",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "Hotels.com",
+        "enabled": true,
+        "urls": [
+            "hotels.com",
+            "nl.hotels.com",
+            "fr.hotels.com"
+        ]
+    },
+    {
+        "title": "Fonq",
+        "enabled": true,
+        "urls": [
+            "fonq.be"
+        ]
+    },
+    {
+        "title": "ALL - Accor Live Limitless",
+        "enabled": true,
+        "urls": [
+            "all.accor.com"
+        ]
+    },
+    {
+        "title": "Nike",
+        "enabled": true,
+        "urls": [
+            "nike.com"
+        ]
+    },
+    {
+        "title": "Teufel",
+        "enabled": true,
+        "urls": [
+            "teufelaudio.be"
+        ]
+    },
+    {
+        "title": "Norton - Antivirus",
+        "enabled": true,
+        "urls": [
+            "norton.com"
+        ]
+    },
+    {
+        "title": "Bongo",
+        "enabled": true,
+        "urls": [
+            "bongo.be"
+        ]
+    },
+    {
+        "title": "SteelSeries",
+        "enabled": true,
+        "urls": [
+            "steelseries.com"
+        ]
+    },
+    {
+        "title": "Dreamland",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "JBL",
+        "enabled": true,
+        "urls": [
+            "be.jbl.com"
+        ]
+    },
+    {
+        "title": "Zalando Lounge",
+        "enabled": true,
+        "urls": [
+            "zalando-lounge.be",
+            "fr.zalando-lounge.be"
+        ]
+    },
+    {
+        "title": "Torfs",
+        "enabled": true,
+        "urls": [
+            "torfs.be"
+        ]
+    },
+    {
+        "title": "Lidl",
+        "enabled": true,
+        "urls": [
+            "lidl.be"
+        ]
+    },
+    {
+        "title": "Center Parcs",
+        "enabled": true,
+        "urls": [
+            "centerparcs.be"
+        ]
+    },
+    {
+        "title": "Sunweb",
+        "enabled": true,
+        "urls": [
+            "sunweb.be"
+        ]
+    },
+    {
+        "title": "TUI fly",
+        "enabled": true,
+        "urls": [
+            "tuifly.be"
+        ]
+    },
+    {
+        "title": "Sleepworld",
+        "enabled": true,
+        "urls": [
+            "sleepworld.be"
+        ]
+    },
+    {
+        "title": "Bosch Home",
+        "enabled": true,
+        "urls": [
+            "bosch-home.be"
+        ]
+    },
+    {
+        "title": "e5 mode",
+        "enabled": true,
+        "urls": [
+            "e5mode.be"
+        ]
+    },
+    {
+        "title": "NordVPN",
+        "enabled": true,
+        "urls": [
+            "nordvpn.com"
+        ]
+    },
+    {
+        "title": "Disney+",
+        "enabled": true,
+        "urls": [
+            "disneyplus.com"
+        ]
+    },
+    {
+        "title": "JD Sports",
+        "enabled": true,
+        "urls": [
+            "jdsports.be"
+        ]
+    },
+    {
+        "title": "Collect & Go",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "Marlies Dekkers",
+        "enabled": true,
+        "urls": [
+            "marliesdekkers.com"
+        ]
+    },
+    {
+        "title": "Agoda",
+        "enabled": true,
+        "urls": [
+            "agoda.com"
+        ]
+    },
+    {
+        "title": "Plopsa",
+        "enabled": true,
+        "urls": [
+            "plopsa.be",
+            "plopsalanddepanne.be",
+            "plopsaqua.be",
+            "plopsaindoorhasselt.be",
+            "plopsaindoorcoevorden.nl",
+            "holidaypark.de",
+            "majalandkownaty.pl"
+        ]
+    },
+    {
+        "title": "Bookspot.be",
+        "enabled": true,
+        "urls": [
+            "bookspot.be"
+        ]
+    },
+    {
+        "title": "Plein",
+        "enabled": true,
+        "urls": [
+            "plein.be"
+        ]
+    },
+    {
+        "title": "Lampen 24",
+        "enabled": true,
+        "urls": [
+            "lampen24.be"
+        ]
+    },
+    {
+        "title": "Large",
+        "enabled": true,
+        "urls": [
+            "large.be"
+        ]
+    },
+    {
+        "title": "Myprotein",
+        "enabled": true,
+        "urls": [
+            "myprotein.be"
+        ]
+    },
+    {
+        "title": "Bristol",
+        "enabled": true,
+        "urls": [
+            "bristolshop.be"
+        ]
+    },
+    {
+        "title": "Lake resort Beekse Bergen",
+        "enabled": true,
+        "urls": [
+            "beeksebergen.nl"
+        ]
+    },
+    {
+        "title": "River Woods",
+        "enabled": true,
+        "urls": [
+            "riverwoods.net"
+        ]
+    },
+    {
+        "title": "GetYourGuide",
+        "enabled": true,
+        "urls": [
+            "getyourguide.com",
+            "getyourguide.nl",
+            "getyourguide.fr",
+            "getyourguide.co.uk"
+        ]
+    },
+    {
+        "title": "Bergfreunde",
+        "enabled": true,
+        "urls": [
+            "bergfreunde.nl"
+        ]
+    },
+    {
+        "title": "Emma matras",
+        "enabled": true,
+        "urls": [
+            "emma-matras.be"
+        ]
+    },
+    {
+        "title": "ZEB",
+        "enabled": true,
+        "urls": [
+            "zeb.be"
+        ]
+    },
+    {
+        "title": "Sarenza",
+        "enabled": true,
+        "urls": [
+            "fr.sarenza.be",
+            "nl.sarenza.be",
+            "www.sarenza.be"
+        ]
+    },
+    {
+        "title": "De isolatieshop",
+        "enabled": true,
+        "urls": [
+            "isolatiemateriaal.nl"
+        ]
+    },
+    {
+        "title": "deverfwebshop.be",
+        "enabled": true,
+        "urls": [
+            "deverfwebshop.be"
+        ]
+    },
+    {
+        "title": "Tape a l'Oeil",
+        "enabled": true,
+        "urls": [
+            "t-a-o.com",
+            "t-a-o.be"
+        ]
+    },
+    {
+        "title": "Etam",
+        "enabled": true,
+        "urls": [
+            "etam.be"
+        ]
+    },
+    {
+        "title": "Yves Rocher",
+        "enabled": true,
+        "urls": [
+            "yves-rocher.be"
+        ]
+    },
+    {
+        "title": "CyberGhost",
+        "enabled": true,
+        "urls": [
+            "cyberghostvpn.com"
+        ]
+    },
+    {
+        "title": "Pabo BE",
+        "enabled": true,
+        "urls": [
+            "pabo.be"
+        ]
+    },
+    {
+        "title": "Yoursurprise",
+        "enabled": true,
+        "urls": [
+            "yoursurprise.be"
+        ]
+    },
+    {
+        "title": "Allianz Assistance",
+        "enabled": true,
+        "urls": [
+            "allianz-assistance.be"
+        ]
+    },
+    {
+        "title": "Fixami",
+        "enabled": true,
+        "urls": [
+            "fixami.be"
+        ]
+    },
+    {
+        "title": "Pazzox.be",
+        "enabled": true,
+        "urls": [
+            "pazzox.be"
+        ]
+    },
+    {
+        "title": "RAD.eu",
+        "enabled": true,
+        "urls": [
+            "rad.eu"
+        ]
+    },
+    {
+        "title": "Leen Bakker",
+        "enabled": true,
+        "urls": [
+            "leenbakker.be"
+        ]
+    },
+    {
+        "title": "Knack",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "Expedia",
+        "enabled": true,
+        "urls": [
+            "expedia.be"
+        ]
+    },
+    {
+        "title": "Medpets",
+        "enabled": true,
+        "urls": [
+            "medpets.be"
+        ]
+    },
+    {
+        "title": "Vliegtickets.be",
+        "enabled": true,
+        "urls": [
+            "vliegtickets.be",
+            "engine.vliegtickets.be"
+        ]
+    },
+    {
+        "title": "Streamz",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "Koffiemarkt.be",
+        "enabled": true,
+        "urls": [
+            "cafebonmarche.be/",
+            "koffiemarkt.be"
+        ]
+    },
+    {
+        "title": "Auto Europe",
+        "enabled": true,
+        "urls": [
+            "autoeurope.be"
+        ]
+    },
+    {
+        "title": "Ulla Popken",
+        "enabled": true,
+        "urls": [
+            "ullapopken.be"
+        ]
+    },
+    {
+        "title": "Alle Kabels",
+        "enabled": true,
+        "urls": [
+            "allekabels.be"
+        ]
+    },
+    {
+        "title": "Outspot",
+        "enabled": true,
+        "urls": [
+            "outspot.be"
+        ]
+    },
+    {
+        "title": "HEMA",
+        "enabled": true,
+        "urls": [
+            "hema.com"
+        ]
+    },
+    {
+        "title": "JM Bruneau",
+        "enabled": true,
+        "urls": [
+            "jm-bruneau.be"
+        ]
+    },
+    {
+        "title": "Art&craft",
+        "enabled": true,
+        "urls": [
+            "artencraft.be"
+        ]
+    },
+    {
+        "title": "Cheaptickets.be",
+        "enabled": true,
+        "urls": [
+            "cheaptickets.be"
+        ]
+    },
+    {
+        "title": "Bax-shop",
+        "enabled": true,
+        "urls": [
+            "bax-shop.be"
+        ]
+    },
+    {
+        "title": "Sunparks",
+        "enabled": true,
+        "urls": [
+            "sunparks.com"
+        ]
+    },
+    {
+        "title": "Holiday Suites",
+        "enabled": true,
+        "urls": [
+            "holidaysuites.be"
+        ]
+    },
+    {
+        "title": "Van Haren",
+        "enabled": true,
+        "urls": [
+            "vanharen.be"
+        ]
+    },
+    {
+        "title": "Philips",
+        "enabled": true,
+        "urls": [
+            "philips.be"
+        ]
+    },
+    {
+        "title": "The Park Playground",
+        "enabled": true,
+        "urls": [
+            "theparkplayground.com"
+        ]
+    },
+    {
+        "title": "Eurotuin",
+        "enabled": true,
+        "urls": [
+            "eurotuin.be"
+        ]
+    },
+    {
+        "title": "Sawiday",
+        "enabled": true,
+        "urls": [
+            "sawiday.be"
+        ]
+    },
+    {
+        "title": "Private Internet Access VPN",
+        "enabled": true,
+        "urls": [
+            "privateinternetaccess.com"
+        ]
+    },
+    {
+        "title": "PointCarr\u00e9",
+        "enabled": true,
+        "urls": [
+            "pointcarre.be"
+        ]
+    },
+    {
+        "title": "Erovibes",
+        "enabled": true,
+        "urls": [
+            "erovibes.be"
+        ]
+    },
+    {
+        "title": "Viking Direct",
+        "enabled": true,
+        "urls": [
+            "vikingdirect.be"
+        ]
+    },
+    {
+        "title": "Allnatura",
+        "enabled": true,
+        "urls": [
+            "allnatura.be",
+            "allnatura.fr"
+        ]
+    },
+    {
+        "title": "Conrad",
+        "enabled": true,
+        "urls": [
+            "conrad.be"
+        ]
+    },
+    {
+        "title": "Campspace",
+        "enabled": true,
+        "urls": [
+            "campspace.com"
+        ]
+    },
+    {
+        "title": "Cabau lifestyle",
+        "enabled": true,
+        "urls": [
+            "cabaulifestyle.com"
+        ]
+    },
+    {
+        "title": "Fitnessking",
+        "enabled": true,
+        "urls": [
+            "fitnessking.be"
+        ]
+    },
+    {
+        "title": "Harman Kardon",
+        "enabled": true,
+        "urls": [
+            "harmankardon.be"
+        ]
+    },
+    {
+        "title": "Sanifun",
+        "enabled": true,
+        "urls": [
+            "online-sanitair.com"
+        ]
+    },
+    {
+        "title": "Bloomon",
+        "enabled": true,
+        "urls": [
+            "bloomon.be"
+        ]
+    },
+    {
+        "title": "Geluidshuis",
+        "enabled": true,
+        "urls": [
+            "geluidshuisuitgeverij.com"
+        ]
+    },
+    {
+        "title": "Pearle",
+        "enabled": true,
+        "urls": [
+            "pearle.be"
+        ]
+    },
+    {
+        "title": "L'Occitane",
+        "enabled": true,
+        "urls": [
+            "be.loccitane.com"
+        ]
+    },
+    {
+        "title": "Cewe",
+        "enabled": true,
+        "urls": [
+            "cewe.be"
+        ]
+    },
+    {
+        "title": "Deepbridge",
+        "enabled": true,
+        "urls": [
+            "deepbridge.be"
+        ]
+    },
+    {
+        "title": "Eliza Was Here",
+        "enabled": true,
+        "urls": [
+            "elizawashere.be"
+        ]
+    },
+    {
+        "title": "Reebok",
+        "enabled": true,
+        "urls": [
+            "reebok.com"
+        ]
+    },
+    {
+        "title": "Zeeman",
+        "enabled": true,
+        "urls": [
+            "zeeman.com"
+        ]
+    },
+    {
+        "title": "Stoked boardshop",
+        "enabled": true,
+        "urls": [
+            "stokedboardshop.be"
+        ]
+    },
+    {
+        "title": "Unigiftcard",
+        "enabled": true,
+        "urls": [
+            "unigiftcard.be"
+        ]
+    },
+    {
+        "title": "Blackroll",
+        "enabled": true,
+        "urls": [
+            "blackroll.com"
+        ]
+    },
+    {
+        "title": "America Today",
+        "enabled": true,
+        "urls": [
+            "america-today.com"
+        ]
+    },
+    {
+        "title": "Billion Avenue",
+        "enabled": true,
+        "urls": [
+            "billionavenue.com"
+        ]
+    },
+    {
+        "title": "Libelle",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "Dyson",
+        "enabled": true,
+        "urls": [
+            "https://www.dyson.be/"
+        ]
+    },
+    {
+        "title": "Sissy-Boy",
+        "enabled": true,
+        "urls": [
+            "sissy-boy.be"
+        ]
+    },
+    {
+        "title": "Timberland",
+        "enabled": true,
+        "urls": [
+            "timberland.be"
+        ]
+    },
+    {
+        "title": "Converse",
+        "enabled": true,
+        "urls": [
+            "converse.com"
+        ]
+    },
+    {
+        "title": "FNAC",
+        "enabled": true,
+        "urls": [
+            "nl.fnac.be",
+            "fr.fnac.be",
+            "secure.nl.fnac.be",
+            "secure.fr.fnac.be"
+        ]
+    },
+    {
+        "title": "LensOnline",
+        "enabled": true,
+        "urls": [
+            "lensonline.be"
+        ]
+    },
+    {
+        "title": "Saniweb",
+        "enabled": true,
+        "urls": [
+            "saniweb.be"
+        ]
+    },
+    {
+        "title": "Fun",
+        "enabled": true,
+        "urls": [
+            "fun.be"
+        ]
+    },
+    {
+        "title": "Medi-market",
+        "enabled": true,
+        "urls": [
+            "medi-market.be"
+        ]
+    },
+    {
+        "title": "RunningDirect",
+        "enabled": true,
+        "urls": [
+            "runningdirect.be"
+        ]
+    },
+    {
+        "title": "Walibi",
+        "enabled": true,
+        "urls": [
+            "walibi.be"
+        ]
+    },
+    {
+        "title": "GSMpunt",
+        "enabled": true,
+        "urls": [
+            "gsmpunt.nl"
+        ]
+    },
+    {
+        "title": "Iberostar",
+        "enabled": true,
+        "urls": [
+            "iberostar.com"
+        ]
+    },
+    {
+        "title": "Wijnvoordeel",
+        "enabled": true,
+        "urls": [
+            "wijnvoordeel.be"
+        ]
+    },
+    {
+        "title": "Plopsa Hotel",
+        "enabled": true,
+        "urls": [
+            "plopsahotel.be"
+        ]
+    },
+    {
+        "title": "OnePlus",
+        "enabled": true,
+        "urls": [
+            "oneplus.com"
+        ]
+    },
+    {
+        "title": "Meyer mode",
+        "enabled": true,
+        "urls": [
+            "meyer-mode.be"
+        ]
+    },
+    {
+        "title": "Octa+",
+        "enabled": true,
+        "urls": [
+            "octaplus.be"
+        ]
+    },
+    {
+        "title": "Goboony",
+        "enabled": true,
+        "urls": [
+            "goboony.be",
+            "goboony.fr",
+            "goboony.com"
+        ]
+    },
+    {
+        "title": "Cardoen",
+        "enabled": true,
+        "urls": [
+            "cardoen.be"
+        ]
+    },
+    {
+        "title": "Happy Socks",
+        "enabled": true,
+        "urls": [
+            "happysocks.com"
+        ]
+    },
+    {
+        "title": "Peter Hahn",
+        "enabled": true,
+        "urls": [
+            "peterhahn.be"
+        ]
+    },
+    {
+        "title": "Asian Food Lovers",
+        "enabled": true,
+        "urls": [
+            "asianfoodlovers.be"
+        ]
+    },
+    {
+        "title": "Babista",
+        "enabled": true,
+        "urls": [
+            "babista.be"
+        ]
+    },
+    {
+        "title": "Eleven",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "Supervers",
+        "enabled": true,
+        "urls": [
+            "supervers.be"
+        ]
+    },
+    {
+        "title": "iDeal of Sweden",
+        "enabled": true,
+        "urls": [
+            "idealofsweden.be"
+        ]
+    },
+    {
+        "title": "Case Company",
+        "enabled": true,
+        "urls": [
+            "casecompany.be"
+        ]
+    },
+    {
+        "title": "Laudius",
+        "enabled": true,
+        "urls": [
+            "laudius.be"
+        ]
+    },
+    {
+        "title": "Qallo",
+        "enabled": true,
+        "urls": [
+            "qallo.com"
+        ]
+    },
+    {
+        "title": "Quick Parking",
+        "enabled": true,
+        "urls": [
+            "quickparking.com"
+        ]
+    },
+    {
+        "title": "F1 TV",
+        "enabled": true,
+        "urls": [
+            "formula1.com",
+            "f1tv.formula1.com"
+        ]
+    },
+    {
+        "title": "Lentiamo",
+        "enabled": true,
+        "urls": [
+            "lentiamo.be"
+        ]
+    },
+    {
+        "title": "Tripper",
+        "enabled": true,
+        "urls": [
+            "tripper.be"
+        ]
+    },
+    {
+        "title": "Ditverzinjeniet",
+        "enabled": true,
+        "urls": [
+            "ditverzinjeniet.be"
+        ]
+    },
+    {
+        "title": "Nowinsure",
+        "enabled": true,
+        "urls": [
+            "nowinsurance.com"
+        ]
+    },
+    {
+        "title": "Totally Snow",
+        "enabled": true,
+        "urls": [
+            "winter.skikot.be/",
+            "hiver.skikot.be"
+        ]
+    },
+    {
+        "title": "Flitsmeister",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "Growing Concepts",
+        "enabled": true,
+        "urls": [
+            "growingconcepts.be"
+        ]
+    },
+    {
+        "title": "Schoonheids school",
+        "enabled": true,
+        "urls": [
+            "schoonheidsschool.be"
+        ]
+    },
+    {
+        "title": "Energie.be",
+        "enabled": true,
+        "urls": [
+            "energie.be"
+        ]
+    },
+    {
+        "title": "Refurbished",
+        "enabled": true,
+        "urls": [
+            "refurbished.be"
+        ]
+    },
+    {
+        "title": "Pierre et Vacances",
+        "enabled": true,
+        "urls": [
+            "pierreetvacances.com"
+        ]
+    },
+    {
+        "title": "Michael Kors",
+        "enabled": true,
+        "urls": [
+            "michaelkors.eu"
+        ]
+    },
+    {
+        "title": "DC shoes",
+        "enabled": true,
+        "urls": [
+            "dcshoes-belgium.be"
+        ]
+    },
+    {
+        "title": "Auto5",
+        "enabled": true,
+        "urls": [
+            "auto5.be"
+        ]
+    },
+    {
+        "title": "Natuurhuisje",
+        "enabled": true,
+        "urls": [
+            "natuurhuisje.be"
+        ]
+    },
+    {
+        "title": "Vrbo",
+        "enabled": true,
+        "urls": [
+            "vrbo.com"
+        ]
+    },
+    {
+        "title": "Wonderbox",
+        "enabled": true,
+        "urls": [
+            "be.wonderbox.com"
+        ]
+    },
+    {
+        "title": "Parkos",
+        "enabled": true,
+        "urls": [
+            "parkos.be"
+        ]
+    },
+    {
+        "title": "Desigual",
+        "enabled": true,
+        "urls": [
+            "desigual.com"
+        ]
+    },
+    {
+        "title": "Manfield",
+        "enabled": true,
+        "urls": [
+            "manfield.be"
+        ]
+    },
+    {
+        "title": "De Matrassenkoning",
+        "enabled": true,
+        "urls": [
+            "de-matrassenkoning.be"
+        ]
+    },
+    {
+        "title": "Roxy",
+        "enabled": true,
+        "urls": [
+            "roxy-belgium.be"
+        ]
+    },
+    {
+        "title": "G-Star.com",
+        "enabled": true,
+        "urls": [
+            "g-star.com"
+        ]
+    },
+    {
+        "title": "Sacha",
+        "enabled": true,
+        "urls": [
+            "sacha.be"
+        ]
+    },
+    {
+        "title": "iBOOD",
+        "enabled": true,
+        "urls": [
+            "ibood.com"
+        ]
+    },
+    {
+        "title": "Van Arendonk",
+        "enabled": true,
+        "urls": [
+            "vanarendonk.be"
+        ]
+    },
+    {
+        "title": "Musement",
+        "enabled": true,
+        "urls": [
+            "musement.com"
+        ]
+    },
+    {
+        "title": "Palladium",
+        "enabled": true,
+        "urls": [
+            "palladiumboots.nl"
+        ]
+    },
+    {
+        "title": "K-Swiss",
+        "enabled": true,
+        "urls": [
+            "kswiss.nl"
+        ]
+    },
+    {
+        "title": "Shape nation",
+        "enabled": true,
+        "urls": [
+            "shapenation.be"
+        ]
+    },
+    {
+        "title": "Ticketmaster",
+        "enabled": true,
+        "urls": [
+            "ticketmaster.be"
+        ]
+    },
+    {
+        "title": "Foodbag",
+        "enabled": true,
+        "urls": [
+            "foodbag.be",
+            "foodbag.be"
+        ]
+    },
+    {
+        "title": "Boozyshop",
+        "enabled": true,
+        "urls": [
+            "boozyshop.be"
+        ]
+    },
+    {
+        "title": "Luisaviaroma",
+        "enabled": true,
+        "urls": [
+            "luisaviaroma.com"
+        ]
+    },
+    {
+        "title": "The Social Hub",
+        "enabled": true,
+        "urls": [
+            "thesocialhub.co"
+        ]
+    },
+    {
+        "title": "BubblyDoo",
+        "enabled": true,
+        "urls": [
+            "bubblydoo.be"
+        ]
+    },
+    {
+        "title": "Mona mode",
+        "enabled": true,
+        "urls": [
+            "mona-mode.be"
+        ]
+    },
+    {
+        "title": "Regiobloemist",
+        "enabled": true,
+        "urls": [
+            "regiobloemist.be"
+        ]
+    },
+    {
+        "title": "Maes & Hills collection",
+        "enabled": true,
+        "urls": [
+            "maeshillscollection.com"
+        ]
+    },
+    {
+        "title": "Beerwulf",
+        "enabled": true,
+        "urls": [
+            "beerwulf.com"
+        ]
+    },
+    {
+        "title": "Proxis",
+        "enabled": true,
+        "urls": [
+            "proxis.com"
+        ]
+    },
+    {
+        "title": "Evancy",
+        "enabled": true,
+        "urls": [
+            "evancy.be"
+        ]
+    },
+    {
+        "title": "Cardpile",
+        "enabled": true,
+        "urls": [
+            "cardpile.nl"
+        ]
+    },
+    {
+        "title": "Indicamp",
+        "enabled": true,
+        "urls": [
+            "indicamp.be"
+        ]
+    },
+    {
+        "title": "Soccerfanshop",
+        "enabled": true,
+        "urls": [
+            "soccerfanshop.be"
+        ]
+    },
+    {
+        "title": "Villa For You",
+        "enabled": true,
+        "urls": [
+            "villaforyou.com"
+        ]
+    },
+    {
+        "title": "Fritel",
+        "enabled": true,
+        "urls": [
+            "fritel.com"
+        ]
+    },
+    {
+        "title": "Snowworld",
+        "enabled": true,
+        "urls": [
+            "snowworld.com"
+        ]
+    },
+    {
+        "title": "Vertbaudet",
+        "enabled": true,
+        "urls": [
+            "vertbaudet.be"
+        ]
+    },
+    {
+        "title": "Eurogifts",
+        "enabled": true,
+        "urls": [
+            "eurogifts.be"
+        ]
+    },
+    {
+        "title": "Jacadi",
+        "enabled": true,
+        "urls": [
+            "jacadi.be"
+        ]
+    },
+    {
+        "title": "Martin's Hotels",
+        "enabled": true,
+        "urls": [
+            "martinshotels.com"
+        ]
+    },
+    {
+        "title": "Campings.com",
+        "enabled": true,
+        "urls": [
+            "campings.com"
+        ]
+    },
+    {
+        "title": "Calvin Klein",
+        "enabled": true,
+        "urls": [
+            "calvinklein.be"
+        ]
+    },
+    {
+        "title": "Vistaprint",
+        "enabled": true,
+        "urls": [
+            "vistaprint.be"
+        ]
+    },
+    {
+        "title": "Bellewaerde",
+        "enabled": true,
+        "urls": [
+            "bellewaerde.be"
+        ]
+    },
+    {
+        "title": "Unigro",
+        "enabled": true,
+        "urls": [
+            "unigro.be"
+        ]
+    },
+    {
+        "title": "Brouwland",
+        "enabled": true,
+        "urls": [
+            "brouwland.com"
+        ]
+    },
+    {
+        "title": "Tonershop",
+        "enabled": true,
+        "urls": [
+            "tonershop.be"
+        ]
+    },
+    {
+        "title": "Farfetch",
+        "enabled": true,
+        "urls": [
+            "farfetch.com"
+        ]
+    },
+    {
+        "title": "Logitech",
+        "enabled": true,
+        "urls": [
+            "logitech.com"
+        ]
+    },
+    {
+        "title": "Design Bestseller",
+        "enabled": true,
+        "urls": [
+            "design-bestseller.be"
+        ]
+    },
+    {
+        "title": "BasketballDirect",
+        "enabled": true,
+        "urls": [
+            "basketballdirect.com"
+        ]
+    },
+    {
+        "title": "PadelDirect",
+        "enabled": true,
+        "urls": [
+            "padeldirect.be"
+        ]
+    },
+    {
+        "title": "Ubisoft",
+        "enabled": true,
+        "urls": [
+            "https://www.ubisoft.com/"
+        ]
+    },
+    {
+        "title": "Logitech G",
+        "enabled": true,
+        "urls": [
+            "logitechg.com"
+        ]
+    },
+    {
+        "title": "Skiset.nl",
+        "enabled": true,
+        "urls": [
+            "skiset.nl"
+        ]
+    },
+    {
+        "title": "DB",
+        "enabled": true,
+        "urls": [
+            "dbjourney.com"
+        ]
+    },
+    {
+        "title": "Wiggle",
+        "enabled": true,
+        "urls": [
+            "wiggle.nl"
+        ]
+    },
+    {
+        "title": "Radisson Hotels",
+        "enabled": true,
+        "urls": [
+            "radissonhotels.com"
+        ]
+    },
+    {
+        "title": "Le Vif/L\u2019Express",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "Suncamp",
+        "enabled": true,
+        "urls": [
+            "suncamp.be"
+        ]
+    },
+    {
+        "title": "Bershka",
+        "enabled": true,
+        "urls": [
+            "bershka.com"
+        ]
+    },
+    {
+        "title": "Rayon",
+        "enabled": true,
+        "urls": [
+            "rayon.be"
+        ]
+    },
+    {
+        "title": "Xbox",
+        "enabled": true,
+        "urls": [
+            "xbox.com"
+        ]
+    },
+    {
+        "title": "Smartphonehoesjes.nl",
+        "enabled": true,
+        "urls": [
+            "smartphonehoesjes.nl"
+        ]
+    },
+    {
+        "title": "Flyer.be",
+        "enabled": true,
+        "urls": [
+            "flyer.be"
+        ]
+    },
+    {
+        "title": "Asics",
+        "enabled": true,
+        "urls": [
+            "asics.com"
+        ]
+    },
+    {
+        "title": "John Beerens",
+        "enabled": true,
+        "urls": [
+            "johnbeerens.com"
+        ]
+    },
+    {
+        "title": "Vestiaire Collective",
+        "enabled": true,
+        "urls": [
+            "vestiairecollective.com"
+        ]
+    },
+    {
+        "title": "Spartoo",
+        "enabled": true,
+        "urls": [
+            "spartoo.be"
+        ]
+    },
+    {
+        "title": "The Kooples",
+        "enabled": true,
+        "urls": [
+            "thekooples.com"
+        ]
+    },
+    {
+        "title": "AsiaDirect",
+        "enabled": true,
+        "urls": [
+            "asiadirect.nl"
+        ]
+    },
+    {
+        "title": "Wijndomein.be",
+        "enabled": true,
+        "urls": [
+            "wijndomein.be"
+        ]
+    },
+    {
+        "title": "Puy du fou",
+        "enabled": true,
+        "urls": [
+            "puydufou.com"
+        ]
+    },
+    {
+        "title": "Femmes d\u2019Aujourd\u2019hui",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "Otrium",
+        "enabled": true,
+        "urls": [
+            "otrium.be"
+        ]
+    },
+    {
+        "title": "Nordic",
+        "enabled": true,
+        "urls": [
+            "nordic.be"
+        ]
+    },
+    {
+        "title": "Appelhoes",
+        "enabled": true,
+        "urls": [
+            "appelhoes.nl"
+        ]
+    },
+    {
+        "title": "Dress-for-Less",
+        "enabled": true,
+        "urls": [
+            "dress-for-less.nl"
+        ]
+    },
+    {
+        "title": "Razer",
+        "enabled": true,
+        "urls": [
+            "razer.com"
+        ]
+    },
+    {
+        "title": "RedMagic",
+        "enabled": true,
+        "urls": [
+            "redmagic.gg"
+        ]
+    },
+    {
+        "title": "Galtic",
+        "enabled": true,
+        "urls": [
+            "galtic.be"
+        ]
+    },
+    {
+        "title": "Alensa",
+        "enabled": true,
+        "urls": [
+            "alensa.be"
+        ]
+    },
+    {
+        "title": "Boldking",
+        "enabled": true,
+        "urls": [
+            "boldking.com"
+        ]
+    },
+    {
+        "title": "Game Mania",
+        "enabled": true,
+        "urls": [
+            "gamemania.be"
+        ]
+    },
+    {
+        "title": "Cinemember",
+        "enabled": true,
+        "urls": [
+            "cinemember.nl"
+        ]
+    },
+    {
+        "title": "Transavia",
+        "enabled": true,
+        "urls": [
+            "transavia.com"
+        ]
+    },
+    {
+        "title": "Chocolademarkt",
+        "enabled": true,
+        "urls": [
+            "chocolademarkt.com"
+        ]
+    },
+    {
+        "title": "Vacanceselect",
+        "enabled": true,
+        "urls": [
+            "vacanceselect.com"
+        ]
+    },
+    {
+        "title": "Priceline",
+        "enabled": true,
+        "urls": [
+            "priceline.com"
+        ]
+    },
+    {
+        "title": "Bitiba",
+        "enabled": true,
+        "urls": [
+            "bitiba.nl"
+        ]
+    },
+    {
+        "title": "Flair",
+        "enabled": true,
+        "urls": []
+    },
+    {
+        "title": "Playmobil",
+        "enabled": true,
+        "urls": [
+            "playmobil.be"
+        ]
+    },
+    {
+        "title": "Independer",
+        "enabled": true,
+        "urls": [
+            "independer.be"
+        ]
+    },
+    {
+        "title": "I-Run",
+        "enabled": true,
+        "urls": [
+            "i-run.be"
+        ]
+    },
+    {
+        "title": "Connections",
+        "enabled": true,
+        "urls": [
+            "connections.be",
+            "flights.connections.be"
+        ]
+    },
+    {
+        "title": "Ardennen Relais",
+        "enabled": true,
+        "urls": [
+            "vakantiehuizen-ardennen.be",
+            "ardennen-relais.be"
+        ]
+    },
+    {
+        "title": "Black Shark",
+        "enabled": true,
+        "urls": [
+            "blackshark.com"
+        ]
+    },
+    {
+        "title": "Srprs.me",
+        "enabled": true,
+        "urls": [
+            "srprs.me"
+        ]
+    },
+    {
+        "title": "Nedgame",
+        "enabled": true,
+        "urls": [
+            "nedgame.nl"
+        ]
+    },
+    {
+        "title": "Miinto",
+        "enabled": true,
+        "urls": [
+            "miinto.be"
+        ]
+    },
+    {
+        "title": "Hopt",
+        "enabled": true,
+        "urls": [
+            "hopt.be"
+        ]
+    },
+    {
+        "title": "Kare",
+        "enabled": true,
+        "urls": [
+            "kare.be"
+        ]
+    },
+    {
+        "title": "Monnier Paris",
+        "enabled": true,
+        "urls": [
+            "monnierparis.com"
+        ]
+    },
+    {
+        "title": "Budget",
+        "enabled": true,
+        "urls": [
+            "budgetinternational.com"
+        ]
+    },
+    {
+        "title": "Steel & Barnett",
+        "enabled": true,
+        "urls": [
+            "steelandbarnett.com"
+        ]
+    },
+    {
+        "title": "Uneffected",
+        "enabled": true,
+        "urls": [
+            "nl.uneffected.com"
+        ]
+    },
+    {
+        "title": "VoetbalDirect",
+        "enabled": true,
+        "urls": [
+            "voetbaldirect.be"
+        ]
+    },
+    {
+        "title": "HockeyDirect",
+        "enabled": true,
+        "urls": [
+            "hockeydirect.be"
+        ]
+    },
+    {
+        "title": "Outathome",
+        "enabled": true,
+        "urls": [
+            "outathome.com"
+        ]
+    },
+    {
+        "title": "Tuur.shop",
+        "enabled": true,
+        "urls": [
+            "tuur.shop"
+        ]
+    },
+    {
+        "title": "MSC cruises",
+        "enabled": true,
+        "urls": [
+            "msccruises.be"
+        ]
+    },
+    {
+        "title": "Europarcs",
+        "enabled": true,
+        "urls": [
+            "europarcs.be"
+        ]
+    },
+    {
+        "title": "Polar",
+        "enabled": true,
+        "urls": [
+            "polar.com"
+        ]
+    },
+    {
+        "title": "Startselect",
+        "enabled": true,
+        "urls": [
+            "startselect.com"
+        ]
+    },
+    {
+        "title": "Vakantieveilingen.be",
+        "enabled": true,
+        "urls": [
+            "vakantieveilingen.be"
+        ]
+    },
+    {
+        "title": "My Jewellery",
+        "enabled": true,
+        "urls": [
+            "my-jewellery.com"
+        ]
+    },
+    {
+        "title": "Flora by Ethias",
+        "enabled": true,
+        "urls": [
+            "flora.insure"
+        ]
+    },
+    {
+        "title": "Corona Direct",
+        "enabled": true,
+        "urls": [
+            "coronadirect.be"
+        ]
+    },
+    {
+        "title": "Topdrinks",
+        "enabled": true,
+        "urls": [
+            "topdrinks.be"
+        ]
+    },
+    {
+        "title": "AEG",
+        "enabled": true,
+        "urls": [
+            "aeg.be"
+        ]
+    },
+    {
+        "title": "Tuinhuisstore",
+        "enabled": true,
+        "urls": [
+            "tuinhuisstore.be"
+        ]
+    },
+    {
+        "title": "Zwembadstore",
+        "enabled": true,
+        "urls": [
+            "zwembadstore.be"
+        ]
+    },
+    {
+        "title": "Thomas Cook",
+        "enabled": true,
+        "urls": [
+            "thomascook.be"
+        ]
+    }
+]
